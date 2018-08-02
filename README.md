@@ -8,7 +8,7 @@ This codes here in github, are just the vhdl and wave fore files.
 
 If you wanna get the ***complete project built with `ISE`*** go [here](https://alirezakay.github.io/showcase/term4), find the project title and **download** the full one.
 
-here is an approximately complete documentaion in **Persian** and also **English** language: [document](./MYCPU.pdf)
+here is an approximately complete documentaion in **Persian** and also **English** language: [document](./MyCPU.pdf)
 
 ## Authors
 
