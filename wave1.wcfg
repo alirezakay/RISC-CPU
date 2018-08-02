@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/ProgrDocs/ToTheProgrammer/Main/University/Term4/Computer Architecture/myCPUv3/tb1_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="tb1" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="14" />
+   <wave_markers>
+      <marker time="50000000" label="" />
+      <marker time="70000000" label="" />
+      <marker time="90000000" label="" />
+      <marker time="110000000" label="" />
+      <marker time="130000000" label="" />
+      <marker time="30000000" label="" />
+      <marker time="210000000" label="" />
+      <marker time="330000000" label="" />
+      <marker time="390000000" label="" />
+      <marker time="270000000" label="" />
+      <marker time="150000000" label="" />
+      <marker time="450000000" label="" />
+      <marker time="530000000" label="" />
+      <marker time="610000000" label="" />
+      <marker time="690000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/tb1/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffff00</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/op" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">op[3:0]</obj_property>
+      <obj_property name="ObjectShortName">op[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/DP/myPC/pc_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pc_out[12:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_out[12:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/memorydata" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">memorydata[7:0]</obj_property>
+      <obj_property name="ObjectShortName">memorydata[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/DP/IR1/instr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">instr[7:0]</obj_property>
+      <obj_property name="ObjectShortName">instr[7:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffffff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/DP/IR2/instr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">instr[7:0]</obj_property>
+      <obj_property name="ObjectShortName">instr[7:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffffff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/aluresult" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">aluresult[7:0]</obj_property>
+      <obj_property name="ObjectShortName">aluresult[7:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff00ff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/controlword" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">controlword[18:0]</obj_property>
+      <obj_property name="ObjectShortName">controlword[18:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/nextline" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">nextline[3:0]</obj_property>
+      <obj_property name="ObjectShortName">nextline[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/carout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">carout[3:0]</obj_property>
+      <obj_property name="ObjectShortName">carout[3:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffff00</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/DP/myREGFILE/registerfile" type="array" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">registerfile[0:3]</obj_property>
+      <obj_property name="ObjectShortName">registerfile[0:3]</obj_property>
+      <obj_property name="label">registerfile[0:3]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#008080</obj_property>
+      <wvobject fp_name="/tb1/uut/DP/myREGFILE/registerfile[0]" type="array" db_ref_id="1">
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="ElementShortName">[0]</obj_property>
+         <obj_property name="ObjectShortName">registerfile[0]</obj_property>
+         <obj_property name="label">[0]</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+         <obj_property name="CustomSignalColor">#ff0000</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb1/uut/DP/myREGFILE/registerfile[1]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[1]</obj_property>
+         <obj_property name="ObjectShortName">registerfile[1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb1/uut/DP/myREGFILE/registerfile[2]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[2]</obj_property>
+         <obj_property name="ObjectShortName">registerfile[2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb1/uut/DP/myREGFILE/registerfile[3]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[3]</obj_property>
+         <obj_property name="ObjectShortName">registerfile[3]</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+         <obj_property name="CustomSignalColor">#ff0000</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/DP/myALU/alucontrol" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">alucontrol[2:0]</obj_property>
+      <obj_property name="ObjectShortName">alucontrol[2:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffaa00</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/DP/RAM/ram[15]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[15]</obj_property>
+      <obj_property name="ObjectShortName">ram[15]</obj_property>
+   </wvobject>
+</wave_config>
