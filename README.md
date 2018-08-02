@@ -4,7 +4,7 @@
 ## Documentation
 This project is implemented in `VHDL` language with `ISE` simulator software with **a particular specifications**.
 
-This codes here in github, are just the vhdl and wave fore files.
+These codes here in github, are just the vhdl and wave fore files.
 
 If you wanna get the ***complete project built with `ISE`*** go [here](https://alirezakay.github.io/showcase/term4), find the project title and **download** the full one.
 
