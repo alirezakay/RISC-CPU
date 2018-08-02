@@ -12,7 +12,7 @@ here is an approximately complete documentaion in **Persian** and also **English
 
 ## Authors
 
-    [ALireza Kavian](https://alireza-kavian.github.io)
+[ALireza Kavian](https://alireza-kavian.github.io)
 
 ## License
 
