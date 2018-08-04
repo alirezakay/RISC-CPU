@@ -1,4 +1,4 @@
-# RICS-CPU
+# RISC-CPU
 > A multi cycle RISC CPU (processor) like MIPS CPU in VHDL ( a hardware side code implementation )
 
 ## Documentation
