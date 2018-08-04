@@ -6,9 +6,9 @@ This project is implemented in `VHDL` language with `ISE` simulator software wit
 
 Relevant course for this project could be `computer architecture`.
 
-These codes here in github, are just the vhdl and wave fore files.
+These codes here in github, are just the vhdl and wave files.
 
-If you wanna get the ***complete project built with `ISE`*** go [here](https://alirezakay.github.io/showcase/term4), find the project title and **download** the full one.
+If you wanna get the ***complete project codes, built with `ISE`*** go [here](https://alirezakay.github.io/showcase/term4), find the project title and **download** the full one.
 
 here is an approximately complete documentaion in **Persian** and also **English** language: [document](./MyCPU.pdf)
 
