@@ -8,15 +8,15 @@ Relevant course for this project could be `computer architecture`.
 
 These codes here in github, are just the vhdl and wave files.
 
-If you wanna get the ***complete project codes, built with `ISE`*** go [here](https://alirezakay.github.io/showcase/term4), find the project title and **download** the full one.
+If you wanna get the ***complete project codes, built with `ISE`*** go [here](https://alirezakay.github.io/showcase/y2/risc-cpu-simulation), find the project title and **download** the full one.
 
 here is an approximately complete documentaion in **Persian** and also **English** language: [document](./MyCPU.pdf)
 
 <hr />
 
-![image 1 - cpu](https://alirezakay.github.io/showcase/term4/CPU2.png)
+![image 1 - cpu](https://alirezakay.github.io/showcase/y2/img/CPU2.png)
 
-![image 2 - cpu](https://alirezakay.github.io/showcase/term4/CPU3.png)
+![image 2 - cpu](https://alirezakay.github.io/showcase/y2/img/CPU3.png)
 
 <hr />
 
