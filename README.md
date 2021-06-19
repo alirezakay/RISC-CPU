@@ -10,7 +10,7 @@ These codes here in github, are just the vhdl and wave files.
 
 If you wanna get the ***complete project codes, built with `ISE`*** go [here](https://alirezakay.github.io/showcase/y2/risc-cpu-simulation), find the project title and **download** the full one.
 
-here is an approximately complete documentaion in **Persian** and also **English** language: [document](./MyCPU.pdf)
+here is a fairly complete documentaion written in **Persian** and also **English** languages: [document](./MyCPU.pdf)
 
 <hr />
 
