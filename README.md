@@ -1,5 +1,5 @@
 # RISC-CPU
-> A multi cycle RISC CPU (processor) like MIPS CPU in VHDL ( a hardware side code implementation )
+> A multi-cycle RISC CPU (processor) like MIPS-CPU architecture in VHDL ( a hardware-side implementation )
 
 ## Documentation
 This project is implemented in `VHDL` language with `ISE` simulator software with **a particular specifications**.
